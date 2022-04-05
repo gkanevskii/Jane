@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "docs/README.md",
             "mode": "source",
             "source": false
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,6 +145,7 @@
   },
   "active": "7b0cfda8385fc902",
   "lastOpenFiles": [
+    "docs/README.md",
     "README.md",
     "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
     "docs/400 contacts/420 relatives/Family Tree.md",
@@ -153,7 +154,6 @@
     "Jane/400 contacts/410 non-relatives/419 fiancee/Нина Александровна Ученова.md",
     "Jane/700 linguist work/740 Nightdreams/741 Horrors/Ghosty Afterlife.md",
     "Jane/900 problems/Obstacles.md",
-    "Jane/700 linguist work/Linguist work.md",
-    "Jane/600 autobiography/Autobiography.md"
+    "Jane/700 linguist work/Linguist work.md"
   ]
 }
