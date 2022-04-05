@@ -4,4 +4,4 @@
 [Franchiselist](Franchiselist.md)
 [Movielist](Movielist.md)
 [Serieslist](Serieslist.md)
-[Streamlist](Streamlist.md)>)
+[Streamlist](Streamlist.md)
