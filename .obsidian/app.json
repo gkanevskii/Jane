@@ -4,5 +4,6 @@
   "newFileLocation": "current",
   "legacyEditor": false,
   "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "useMarkdownLinks": true
 }
