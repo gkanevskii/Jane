@@ -1,0 +1,107 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#dead",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#bl1",
+      "color": {
+        "a": 1,
+        "rgb": 16775782
+      }
+    },
+    {
+      "query": "tag:#bl2",
+      "color": {
+        "a": 1,
+        "rgb": 15335321
+      }
+    },
+    {
+      "query": "tag:#bl3",
+      "color": {
+        "a": 1,
+        "rgb": 14745538
+      }
+    },
+    {
+      "query": "tag:#bl4",
+      "color": {
+        "a": 1,
+        "rgb": 11403198
+      }
+    },
+    {
+      "query": "tag:#bl5",
+      "color": {
+        "a": 1,
+        "rgb": 11403249
+      }
+    },
+    {
+      "query": "tag:#blood_relatives",
+      "color": {
+        "a": 1,
+        "rgb": 12443135
+      }
+    },
+    {
+      "query": "path:\"70 linguist work\"",
+      "color": {
+        "a": 1,
+        "rgb": 12730895
+      }
+    },
+    {
+      "query": "path:\"40 people\"",
+      "color": {
+        "a": 1,
+        "rgb": 461140
+      }
+    },
+    {
+      "query": "path:\"20 game art\"",
+      "color": {
+        "a": 1,
+        "rgb": 11503863
+      }
+    },
+    {
+      "query": "path:\"10 video art\"",
+      "color": {
+        "a": 1,
+        "rgb": 15963391
+      }
+    },
+    {
+      "query": "path:/",
+      "color": {
+        "a": 1,
+        "rgb": 1973790
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.37043662383178,
+  "lineSizeMultiplier": 2.01170014495755,
+  "collapse-forces": false,
+  "centerStrength": 0.540346517567474,
+  "repelStrength": 20,
+  "linkStrength": 0.635733930936131,
+  "linkDistance": 255,
+  "scale": 0.06455531499683906,
+  "close": false
+}

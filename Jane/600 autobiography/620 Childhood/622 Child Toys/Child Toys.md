@@ -1,0 +1,7 @@
+[[Interactive Toys]]
+[[Mobile phones]]
+[[Constructors]]
+[[Tabletop and sports games]]
+[[Gear]]
+[[Soft Toys]]
+[[Action Figures]]

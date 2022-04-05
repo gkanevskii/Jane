@@ -1,0 +1,7 @@
+[[Movielist]]
+[[Franchiselist]]
+[[Serieslist]]
+[[Cartoonlist]]
+[[Watchlist]]
+[[Streamlist]]
+[[Channellist]]

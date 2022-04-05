@@ -1,0 +1,1 @@
+Tags: #singleplayer, #action, #adventure, #Hugo 

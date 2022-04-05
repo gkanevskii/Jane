@@ -1,0 +1,1 @@
+Tags: #brawler, #fighting, #multiplayer 

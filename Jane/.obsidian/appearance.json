@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "Bubble Space",
+  "enabledCssSnippets": [
+    "youtube"
+  ]
+}

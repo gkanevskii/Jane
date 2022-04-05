@@ -1,0 +1,1 @@
+Tags: #singleplayer, #platformer, #puzzle, #Hugo 

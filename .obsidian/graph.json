@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#dead",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#blood_relatives",
+      "color": {
+        "a": 1,
+        "rgb": 10810772
+      }
+    },
+    {
+      "query": "path:420",
+      "color": {
+        "a": 1,
+        "rgb": 8178942
+      }
+    },
+    {
+      "query": "path:120",
+      "color": {
+        "a": 1,
+        "rgb": 12099582
+      }
+    },
+    {
+      "query": "path:110",
+      "color": {
+        "a": 1,
+        "rgb": 15045877
+      }
+    },
+    {
+      "query": "path:000",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:740",
+      "color": {
+        "a": 1,
+        "rgb": 6121926
+      }
+    },
+    {
+      "query": "path:600",
+      "color": {
+        "a": 1,
+        "rgb": 10811099
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 0.83,
+  "lineSizeMultiplier": 1.33876404494382,
+  "collapse-forces": false,
+  "centerStrength": 0.508988764044944,
+  "repelStrength": 12.247191011236,
+  "linkStrength": 1,
+  "linkDistance": 447,
+  "scale": 0.5334257528756626,
+  "close": true
+}

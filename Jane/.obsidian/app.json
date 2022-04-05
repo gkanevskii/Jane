@@ -1,0 +1,11 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "Base",
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "communityPluginSortOrder": "download"
+}

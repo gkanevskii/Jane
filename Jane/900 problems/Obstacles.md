@@ -1,0 +1,2 @@
+[[GlobalProblemlist]]
+[[DailyProblemlist]]
