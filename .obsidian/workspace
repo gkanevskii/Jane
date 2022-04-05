@@ -7,8 +7,12 @@
         "id": "7b0cfda8385fc902",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -19,8 +23,24 @@
     "type": "split",
     "children": [
       {
+        "id": "dd8d3f0aa57376d4",
+        "type": "tabs",
+        "dimension": 23.75296912114014,
+        "children": [
+          {
+            "id": "1207b0be4162fd08",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "9465810df226c008",
         "type": "tabs",
+        "dimension": 76.24703087885986,
         "children": [
           {
             "id": "92879344a9a7ac86",
@@ -53,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -123,15 +144,15 @@
   },
   "active": "7b0cfda8385fc902",
   "lastOpenFiles": [
+    "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
+    "docs/400 contacts/420 relatives/Family Tree.md",
+    "docs/300 foods/Foods.md",
+    "README.md",
     "Jane/000 meta and management/030 tree structure/Social Accounts.md",
     "Jane/400 contacts/410 non-relatives/419 fiancee/Нина Александровна Ученова.md",
     "Jane/700 linguist work/740 Nightdreams/741 Horrors/Ghosty Afterlife.md",
     "Jane/900 problems/Obstacles.md",
     "Jane/700 linguist work/Linguist work.md",
-    "Jane/600 autobiography/Autobiography.md",
-    "Jane/600 autobiography/630 Adolescence/English approach.md",
-    "Jane/700 linguist work/790 Viscachas/Viscacha.md",
-    "Jane/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка с Крампусом 1 часть.md",
-    "Jane/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Крампус Небывальтич.md"
+    "Jane/600 autobiography/Autobiography.md"
   ]
 }
