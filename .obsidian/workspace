@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7b0cfda8385fc902",
+        "id": "e9f66342a57b1fd2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/README.md",
+            "file": "docs/400 contacts/410 non-relatives/415 acquaintances/Алексей Байдаков.md",
             "mode": "source",
             "source": false
           }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,13 +93,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/README.md",
+                "file": "docs/400 contacts/410 non-relatives/415 acquaintances/Алексей Байдаков.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -122,9 +121,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "docs/400 contacts/410 non-relatives/415 acquaintances/Алексей Байдаков.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -136,24 +135,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 215.1999969482422
   },
-  "active": "7b0cfda8385fc902",
+  "active": "e9f66342a57b1fd2",
   "lastOpenFiles": [
+    "docs/400 contacts/410 non-relatives/415 acquaintances/Алексей Байдаков.md",
+    "docs/400 contacts/410 non-relatives/415 acquaintances/Илья Волосов.md",
+    "docs/400 contacts/410 non-relatives/419 fiancee/Нина Александровна Ученова.md",
+    "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
+    "docs/400 contacts/410 non-relatives/Social Tree.md",
     "docs/README.md",
     "README.md",
-    "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
     "docs/400 contacts/420 relatives/Family Tree.md",
     "docs/300 foods/Foods.md",
-    "Jane/000 meta and management/030 tree structure/Social Accounts.md",
-    "Jane/400 contacts/410 non-relatives/419 fiancee/Нина Александровна Ученова.md",
-    "Jane/700 linguist work/740 Nightdreams/741 Horrors/Ghosty Afterlife.md",
-    "Jane/900 problems/Obstacles.md",
-    "Jane/700 linguist work/Linguist work.md"
+    "Jane/000 meta and management/030 tree structure/Social Accounts.md"
   ]
 }
