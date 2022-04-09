@@ -1,0 +1,1 @@
+Kung Fu Panda is a realistic scenery for what it takes to become a hero and is it fated or not.

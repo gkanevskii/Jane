@@ -1,0 +1,1 @@
+Megamind arises the bigotries around the luxury hero lifestyle, by how much terrifying facts its payed for. Significant to mention details all covering and structuring the narrative.

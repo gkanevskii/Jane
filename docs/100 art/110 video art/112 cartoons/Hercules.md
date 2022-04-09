@@ -1,1 +1,1 @@
-Hercules inspires the viewer to take deeper the thought: to die
+Hercules inspires the viewer to take deeper the thought: die as zero to born as hero.
