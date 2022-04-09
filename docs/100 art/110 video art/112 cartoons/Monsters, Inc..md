@@ -1,0 +1,1 @@
+Monsters, Inc. Lots of thought stuff here. Touching music. Exponential action-based story. Main thesys is not all normal things should remain and accepted as 'normal' (like the way of energy production through the scream consuming).

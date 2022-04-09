@@ -1,1 +1,1 @@
-Moana is a trivial
+Moana is the trivial nicely-done evidential cartoon with stunning pop music. Mostly, the toon pretty straightforward says this: hero lies inner, not on the plain materialistic reality.
