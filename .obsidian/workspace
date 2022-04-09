@@ -7,12 +7,8 @@
         "id": "36c5864e1c9266a9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hogwartz",
+                "query": "tag:#blood_relatives",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -128,6 +122,8 @@
   },
   "active": "36c5864e1c9266a9",
   "lastOpenFiles": [
+    "docs/600 autobiography/620 Childhood/621 Child Books/Сунь-Укун Царь обезьян.md",
+    "docs/600 autobiography/620 Childhood/621 Child Books/Child Books.md",
     "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
     "docs/100 art/110 video art/Cartoonlist.md",
     "docs/100 art/110 video art/112 cartoons/Monsters, Inc..md",
@@ -135,8 +131,6 @@
     "docs/100 art/110 video art/112 cartoons/Pinocchio.md",
     "docs/100 art/110 video art/112 cartoons/Klaus.md",
     "docs/100 art/110 video art/112 cartoons/Kung Fu Panda.md",
-    "docs/100 art/110 video art/112 cartoons/Megamind.md",
-    "docs/100 art/110 video art/112 cartoons/Moana.md",
-    "docs/100 art/110 video art/112 cartoons/Dumbo.md"
+    "docs/100 art/110 video art/112 cartoons/Megamind.md"
   ]
 }
