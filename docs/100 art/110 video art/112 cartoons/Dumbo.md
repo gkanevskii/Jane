@@ -1,0 +1,1 @@
+Dumbo storytells the journey of elephant from freak to peak.  Disney cartoon, as it should be with all the music and style.

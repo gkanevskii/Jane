@@ -1,0 +1,1 @@
+Hercules inspires the viewer to take deeper the thought: to die
