@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/100 art/110 video art/Cartoonlist.md",
+            "file": "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hogwartz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/100 art/110 video art/Cartoonlist.md",
+                "file": "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/100 art/110 video art/Cartoonlist.md",
+                "file": "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,8 +128,8 @@
   },
   "active": "36c5864e1c9266a9",
   "lastOpenFiles": [
-    "docs/100 art/110 video art/Cartoonlist.md",
     "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
+    "docs/100 art/110 video art/Cartoonlist.md",
     "docs/100 art/110 video art/112 cartoons/Monsters, Inc..md",
     "docs/100 art/110 video art/112 cartoons/Oliver & Company.md",
     "docs/100 art/110 video art/112 cartoons/Pinocchio.md",
