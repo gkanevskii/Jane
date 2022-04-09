@@ -25,6 +25,9 @@ Tags: #lingva
 Milk Mothers из сериала "Пацаны":
 - А вот черный хуй тебе в рот, Бутчер!
 
+Deadpool:
+- Donde esta la biblioteca?
+
 ## Fictional Invented dialect
 Телыч, ебыч, Татьяныч, все заканчивающееся на  -ыч, -ич и тупые ответы в стиле коверкания английского языка.
 
