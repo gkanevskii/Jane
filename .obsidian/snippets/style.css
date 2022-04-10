@@ -1,0 +1,6 @@
+.jpeg, .png, img {
+    border: 1px solid white;
+    border-radius: 20px;
+    height: 200px;
+    max-height: auto;
+ 

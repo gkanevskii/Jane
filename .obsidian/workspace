@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "docs/800 rationality/Rationality.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#lingva",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,14 +128,14 @@
   "active": "36c5864e1c9266a9",
   "lastOpenFiles": [
     "docs/800 rationality/Rationality.md",
+    "docs/600 autobiography/620 Childhood/621 Child Books/Child Books.md",
+    "docs/600 autobiography/620 Childhood/Childhood.md",
+    "docs/600 autobiography/Autobiography.md",
+    "docs/700 linguist work/740 Nightdreams/741 Horrors/Ghosty Afterlife.md",
+    "docs/700 linguist work/740 Nightdreams/Nightdreams.md",
+    "docs/800 rationality/f2763072.jpeg",
     "docs/000 meta and management/030 tree structure/Social Accounts.md",
     "docs/400 contacts/420 relatives/425 blood relatives 5/Варфоломей Шевчук.md",
-    "docs/400 contacts/420 relatives/426 blood relatives 4/Исидор Варфоломеевич Шевчук.md",
-    "docs/400 contacts/420 relatives/427 blood relatives 3/Галина Исидоровна Панн.md",
-    "docs/400 contacts/420 relatives/427 blood relatives 3/Александр Михайлович Панн.md",
-    "docs/400 contacts/420 relatives/426 blood relatives 4/Михаил Панн.md",
-    "docs/400 contacts/420 relatives/425 blood relatives 5/Григорий Михайлович Панн.md",
-    "docs/400 contacts/420 relatives/426 blood relatives 4/Баренбойм.md",
-    "docs/400 contacts/420 relatives/428 blood relatives 2/Эсфирь Александровна Панн.md"
+    "docs/400 contacts/420 relatives/426 blood relatives 4/Исидор Варфоломеевич Шевчук.md"
   ]
 }
