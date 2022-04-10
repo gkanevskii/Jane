@@ -7,8 +7,12 @@
         "id": "36c5864e1c9266a9",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#blood_relatives",
+                "query": "hogwartz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -122,9 +128,9 @@
   },
   "active": "36c5864e1c9266a9",
   "lastOpenFiles": [
+    "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
     "docs/600 autobiography/620 Childhood/621 Child Books/Сунь-Укун Царь обезьян.md",
     "docs/600 autobiography/620 Childhood/621 Child Books/Child Books.md",
-    "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
     "docs/100 art/110 video art/Cartoonlist.md",
     "docs/100 art/110 video art/112 cartoons/Monsters, Inc..md",
     "docs/100 art/110 video art/112 cartoons/Oliver & Company.md",
