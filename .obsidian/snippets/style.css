@@ -1,11 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+body {
+    font-family: 'Rubik', sans-serif;
+    background: black;
+}
+
 .jpeg, .png, img {
     border-radius: 20px;
     height: 150px;
     text-align: left;
     position: relative;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
 
 .jpeg:hover, .png:hover, img:hover {
     border-radius: 20px;
@@ -20,10 +25,6 @@ iframe {
     text-align: left;
 }
 
-body {
-    font-family: 'Rubik', sans-serif;
-    background-color: black;
-}
 
 link {
     text-transform: uppercase;
