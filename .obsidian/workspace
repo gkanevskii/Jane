@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
+            "file": "docs/400 contacts/420 relatives/425 blood relatives 5/Григорий Михайлович Панн.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hogwartz",
+                "query": "эсфирь",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
+                "file": "docs/400 contacts/420 relatives/425 blood relatives 5/Григорий Михайлович Панн.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
+                "file": "docs/400 contacts/420 relatives/425 blood relatives 5/Григорий Михайлович Панн.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -128,15 +128,15 @@
   },
   "active": "36c5864e1c9266a9",
   "lastOpenFiles": [
+    "docs/400 contacts/420 relatives/425 blood relatives 5/Григорий Михайлович Панн.md",
+    "docs/400 contacts/420 relatives/426 blood relatives 4/Михаил Панн.md",
+    "docs/400 contacts/420 relatives/427 blood relatives 3/Александр Михайлович Панн.md",
+    "docs/400 contacts/420 relatives/428 blood relatives 2/Эсфирь Александровна Панн.md",
     "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
     "docs/600 autobiography/620 Childhood/621 Child Books/Сунь-Укун Царь обезьян.md",
     "docs/600 autobiography/620 Childhood/621 Child Books/Child Books.md",
     "docs/100 art/110 video art/Cartoonlist.md",
     "docs/100 art/110 video art/112 cartoons/Monsters, Inc..md",
-    "docs/100 art/110 video art/112 cartoons/Oliver & Company.md",
-    "docs/100 art/110 video art/112 cartoons/Pinocchio.md",
-    "docs/100 art/110 video art/112 cartoons/Klaus.md",
-    "docs/100 art/110 video art/112 cartoons/Kung Fu Panda.md",
-    "docs/100 art/110 video art/112 cartoons/Megamind.md"
+    "docs/100 art/110 video art/112 cartoons/Oliver & Company.md"
   ]
 }
