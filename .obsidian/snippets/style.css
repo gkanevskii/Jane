@@ -1,8 +1,8 @@
 .jpeg, .png, img {
-    border: 1px solid white;
     border-radius: 20px;
-    height: 200px;
+    height: 150px;
     text-align: left;
+    position: relative;
 }
 
 .jpeg:hover, .png:hover, img:hover {
