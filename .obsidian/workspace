@@ -7,8 +7,12 @@
         "id": "36c5864e1c9266a9",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/000 meta and management/030 tree structure/Social Accounts.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "social",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/000 meta and management/030 tree structure/Social Accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/000 meta and management/030 tree structure/Social Accounts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -122,6 +128,7 @@
   },
   "active": "36c5864e1c9266a9",
   "lastOpenFiles": [
+    "docs/000 meta and management/030 tree structure/Social Accounts.md",
     "docs/400 contacts/420 relatives/425 blood relatives 5/Варфоломей Шевчук.md",
     "docs/400 contacts/420 relatives/426 blood relatives 4/Исидор Варфоломеевич Шевчук.md",
     "docs/400 contacts/420 relatives/427 blood relatives 3/Галина Исидоровна Панн.md",
@@ -130,7 +137,6 @@
     "docs/400 contacts/420 relatives/425 blood relatives 5/Григорий Михайлович Панн.md",
     "docs/400 contacts/420 relatives/426 blood relatives 4/Баренбойм.md",
     "docs/400 contacts/420 relatives/428 blood relatives 2/Эсфирь Александровна Панн.md",
-    "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
-    "docs/600 autobiography/620 Childhood/621 Child Books/Сунь-Укун Царь обезьян.md"
+    "docs/900 problems/930 teaching approach/Hogwartz methodology.md"
   ]
 }
