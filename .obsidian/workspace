@@ -7,11 +7,9 @@
         "id": "36c5864e1c9266a9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "docs/800 rationality/Rationality.md",
-            "mode": "source",
-            "source": false
+            "file": "docs/800 rationality/f2711168.png"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/800 rationality/Rationality.md",
+                "file": "docs/800 rationality/f2711168.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/800 rationality/Rationality.md",
+                "file": "docs/800 rationality/f2711168.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,15 +125,15 @@
   },
   "active": "36c5864e1c9266a9",
   "lastOpenFiles": [
+    "docs/800 rationality/f2711168.png",
     "docs/800 rationality/Rationality.md",
+    "docs/800 rationality/f2623232.jpeg",
+    "docs/600 autobiography/620 Childhood/621 Child Books/Child Books.md",
+    "docs/600 autobiography/620 Childhood/Childhood.md",
+    "docs/600 autobiography/Autobiography.md",
     "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
     "docs/100 art/110 video art/112 cartoons/Kung Fu Panda.md",
     "docs/900 problems/Obstacles.md",
-    "docs/100 art/110 video art/Movielist.md",
-    "docs/100 art/110 video art/112 cartoons/Молодильные яблоки.md",
-    "docs/100 art/110 video art/112 cartoons/Приключения пингвинёнка Лоло.md",
-    "docs/100 art/110 video art/112 cartoons/Oliver & Company.md",
-    "docs/100 art/110 video art/112 cartoons/Megamind.md",
-    "docs/100 art/110 video art/112 cartoons/Dumbo.md"
+    "docs/100 art/110 video art/Movielist.md"
   ]
 }

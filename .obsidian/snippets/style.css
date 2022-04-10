@@ -25,6 +25,6 @@ body {
     background-color: black;
 }
 
-header {
-    font-size: medium;
+link {
+    text-transform: uppercase;
 }
