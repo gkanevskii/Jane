@@ -1,0 +1,8 @@
+[АванПост](https://spb.hh.ru/vacancy/54581706)
+[Engy](https://spb.hh.ru/vacancy/54282338)
+[Devino Telecom](https://spb.hh.ru/vacancy/50978483)
+[SberTech](https://spb.hh.ru/vacancy/50025505)
+[PointPay](https://spb.hh.ru/vacancy/54433462)
+[TWIN](https://spb.hh.ru/vacancy/54681469)
+[Лига Цифровой Экономики](https://spb.hh.ru/vacancy/54664957)
+[ЕДИНЫЙ ЦУПИС](https://spb.hh.ru/vacancy/52489123)
