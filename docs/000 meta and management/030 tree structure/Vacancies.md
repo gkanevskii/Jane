@@ -1,7 +1,7 @@
 [АванПост](https://spb.hh.ru/vacancy/54581706) не просмотрено
 [Engy](https://spb.hh.ru/vacancy/54282338) <p class="green">звонок в 18.30 Четверг Zoom</p>
 [Devino Telecom](https://spb.hh.ru/vacancy/50978483) не просмотрено
-[SberTech](https://spb.hh.ru/vacancy/50025505) <p class="green">звонок</p>
+[SberTech](https://spb.hh.ru/vacancy/50025505) <p class="green">звонок был, на рассмотрении до среды</p>
 [PointPay](https://spb.hh.ru/vacancy/54433462) просмотрено
 [TWIN](https://spb.hh.ru/vacancy/54681469) просмотрено
 [Лига Цифровой Экономики](https://spb.hh.ru/vacancy/54664957) не просмотрено
@@ -47,7 +47,7 @@
 [Saber Interactive](https://spb.hh.ru/vacancy/48220640) не просмотрено
 [Hook Production](https://spb.hh.ru/vacancy/53816240) просмотрено
 [Комус](https://spb.hh.ru/vacancy/52287893) не просмотрено
-[FBS](https://spb.hh.ru/vacancy/54143891) <p class="green">звонок</p>
+[FBS](https://spb.hh.ru/vacancy/54143891) <p class="green">звонок в 11.00 Среда Telegram</p>
 
 Статусы:
 не просмотрено | просмотрено | звонок | отказ | техническое задание |приглашение на собеседование | собеседование | приглашение на работу
