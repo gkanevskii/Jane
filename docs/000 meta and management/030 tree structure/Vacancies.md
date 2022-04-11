@@ -17,6 +17,14 @@
 [SberTech](https://spb.hh.ru/vacancy/54450595)
 [Кловер Групп](https://spb.hh.ru/vacancy/52160166)
 [Кловер Групп](https://spb.hh.ru/vacancy/53009146)
+[Раппорто](https://spb.hh.ru/vacancy/54663878)
+[Финстек Бел](https://spb.hh.ru/vacancy/54249710)
+[Swoo](https://spb.hh.ru/vacancy/54514345)
+[ВКО Символ](https://spb.hh.ru/vacancy/53985307)
+[Дженикс](https://spb.hh.ru/vacancy/53978132)
+[Albatross Internet Group](https://spb.hh.ru/vacancy/54398620)
+[DV-Consulting](https://spb.hh.ru/vacancy/54496660)
+[Тагес Джамп](https://spb.hh.ru/vacancy/54111715)
 
 
 Статусы:
