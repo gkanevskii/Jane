@@ -29,3 +29,7 @@ iframe {
 link {
     text-transform: uppercase;
 }
+
+p.green {
+    color:green;
+}
