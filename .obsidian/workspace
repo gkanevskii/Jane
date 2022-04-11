@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ad1b9fc34720897a",
+        "id": "7a2b778430183954",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "docs/000 meta and management/030 tree structure/Vacancies.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -120,23 +120,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 215.1999969482422
   },
-  "active": "ad1b9fc34720897a",
+  "active": "7a2b778430183954",
   "lastOpenFiles": [
     "docs/000 meta and management/030 tree structure/Vacancies.md",
     "docs/000 meta and management/030 tree structure/Career.md",
     "docs/000 meta and management/030 tree structure/Space of Life.md",
+    "docs/800 rationality/Rationality.md",
     "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
     "Untitled.md",
     "docs/400 contacts/410 non-relatives/415 acquaintances/Алексей Байдаков.md",
     "docs/600 autobiography/620 Childhood/622 Child Toys/Child Toys.md",
     "docs/600 autobiography/620 Childhood/622 Child Toys/Action Figures/металлические солдатики.md",
-    "docs/600 autobiography/620 Childhood/622 Child Toys/Action Figures/индейцы.md",
-    "docs/600 autobiography/620 Childhood/622 Child Toys/Action Figures/динозавры.md"
+    "docs/600 autobiography/620 Childhood/622 Child Toys/Action Figures/индейцы.md"
   ]
 }
