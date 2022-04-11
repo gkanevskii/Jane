@@ -5,19 +5,19 @@
 [PointPay](https://spb.hh.ru/vacancy/54433462) просмотрено
 [TWIN](https://spb.hh.ru/vacancy/54681469) просмотрено
 [Лига Цифровой Экономики](https://spb.hh.ru/vacancy/54664957) не просмотрено
-[ЕДИНЫЙ ЦУПИС](https://spb.hh.ru/vacancy/52489123) не просмотрено
+[ЕДИНЫЙ ЦУПИС](https://spb.hh.ru/vacancy/52489123) просмотрено
 [билайн: контактные центры](https://spb.hh.ru/vacancy/54297485) просмотрено
 [Шеф Маркет](https://spb.hh.ru/vacancy/48585004) не просмотрено
 [Мунэксперт](https://spb.hh.ru/vacancy/52630766) не просмотрено
 [МСН Телеком](https://spb.hh.ru/vacancy/54471889) не просмотрено
 [Мир Хобби](https://spb.hh.ru/vacancy/53921861) не просмотрено
-[Интелкон](https://spb.hh.ru/vacancy/54258276) не просмотрено
+[Интелкон](https://spb.hh.ru/vacancy/54258276) просмотрено
 [БЕТСИТИ](https://spb.hh.ru/vacancy/49411648) не просмотрено
-[Диджитал Майнд Девелопмент](https://spb.hh.ru/vacancy/53574460) не просмотрено
+[Диджитал Майнд Девелопмент](https://spb.hh.ru/vacancy/53574460) просмотрено
 [SberTech](https://spb.hh.ru/vacancy/54450595) не просмотрено
-[Кловер Групп](https://spb.hh.ru/vacancy/52160166) не просмотрено
-[Кловер Групп](https://spb.hh.ru/vacancy/53009146) не просмотрено
-[Раппорто](https://spb.hh.ru/vacancy/54663878) не просмотрено
+[Кловер Групп](https://spb.hh.ru/vacancy/52160166) просмотрено
+[Кловер Групп](https://spb.hh.ru/vacancy/53009146) просмотрено
+[Раппорто](https://spb.hh.ru/vacancy/54663878) просмотрено
 [Финстек Бел](https://spb.hh.ru/vacancy/54249710) не просмотрено
 [Swoo](https://spb.hh.ru/vacancy/54514345) просмотрено
 [ВКО Символ](https://spb.hh.ru/vacancy/53985307) не просмотрено
