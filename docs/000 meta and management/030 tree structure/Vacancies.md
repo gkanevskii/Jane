@@ -19,11 +19,15 @@
 [Кловер Групп](https://spb.hh.ru/vacancy/53009146) не просмотрено
 [Раппорто](https://spb.hh.ru/vacancy/54663878) не просмотрено
 [Финстек Бел](https://spb.hh.ru/vacancy/54249710) не просмотрено
-[Swoo](https://spb.hh.ru/vacancy/54514345) не просмотрено
+[Swoo](https://spb.hh.ru/vacancy/54514345) просмотрено
 [ВКО Символ](https://spb.hh.ru/vacancy/53985307) не просмотрено
 [Дженикс](https://spb.hh.ru/vacancy/53978132) не просмотрено
 [Albatross Internet Group](https://spb.hh.ru/vacancy/54398620) не просмотрено
-[DV-Consulting](https://spb.hh.ru/vacancy/54496660) не просмотрено
+[DV-Consulting](https://spb.hh.ru/vacancy/54496660) просмотрено
+[МТС](https://spb.hh.ru/vacancy/54678279) просмотрено
+[БиАйЭй-Технолоджиз](https://spb.hh.ru/vacancy/54685902) не просмотрено
+[Quadcode](https://spb.hh.ru/vacancy/54693015) просмотрено Cyprus
+[Брайт Софт](https://spb.hh.ru/vacancy/54193579) не просмотрено
 [Тагес Джамп](https://spb.hh.ru/vacancy/54111715) не просмотрено
 [Bercut](https://spb.hh.ru/vacancy/51494540) не просмотрено
 [ITooLabs](https://spb.hh.ru/vacancy/54653746) не просмотрено
@@ -43,6 +47,7 @@
 [Saber Interactive](https://spb.hh.ru/vacancy/48220640) не просмотрено
 [Hook Production](https://spb.hh.ru/vacancy/53816240) просмотрено
 [Комус](https://spb.hh.ru/vacancy/52287893) не просмотрено
+[FBS](https://spb.hh.ru/vacancy/54143891) звонок
 
 Статусы:
 не просмотрено | просмотрено | звонок | отказ | техническое задание |приглашение на собеседование | собеседование | приглашение на работу
