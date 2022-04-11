@@ -1,11 +1,11 @@
 [АванПост](https://spb.hh.ru/vacancy/54581706) не просмотрено
-[Engy](https://spb.hh.ru/vacancy/54282338) звонок
+[Engy](https://spb.hh.ru/vacancy/54282338) <p class="green">звонок в 18.30 Четверг Zoom</p>
 [Devino Telecom](https://spb.hh.ru/vacancy/50978483) не просмотрено
 [SberTech](https://spb.hh.ru/vacancy/50025505) <p class="green">звонок</p>
 [PointPay](https://spb.hh.ru/vacancy/54433462) просмотрено
 [TWIN](https://spb.hh.ru/vacancy/54681469) просмотрено
 [Лига Цифровой Экономики](https://spb.hh.ru/vacancy/54664957) не просмотрено
-[ЕДИНЫЙ ЦУПИС](https://spb.hh.ru/vacancy/52489123) звонок
+[ЕДИНЫЙ ЦУПИС](https://spb.hh.ru/vacancy/52489123) <p class="green">звонок</p>
 [билайн: контактные центры](https://spb.hh.ru/vacancy/54297485) просмотрено
 [Шеф Маркет](https://spb.hh.ru/vacancy/48585004) не просмотрено
 [Мунэксперт](https://spb.hh.ru/vacancy/52630766) не просмотрено
@@ -32,7 +32,7 @@
 [Bercut](https://spb.hh.ru/vacancy/51494540) не просмотрено
 [ITooLabs](https://spb.hh.ru/vacancy/54653746) не просмотрено
 [Солантек](https://spb.hh.ru/vacancy/45520763) не просмотрено
-[Waves Enterprise](https://spb.hh.ru/vacancy/54650085) не просмотрено
+[Waves Enterprise](https://spb.hh.ru/vacancy/54650085) <p class="green">звонок в 13.00 Вторник Telegram</p>
 [ЦРПТ](https://spb.hh.ru/vacancy/54650085) не просмотрено
 [VK](https://spb.hh.ru/vacancy/54584971) не просмотрено
 [Aurus](https://spb.hh.ru/vacancy/54594302) не просмотрено
@@ -47,7 +47,7 @@
 [Saber Interactive](https://spb.hh.ru/vacancy/48220640) не просмотрено
 [Hook Production](https://spb.hh.ru/vacancy/53816240) просмотрено
 [Комус](https://spb.hh.ru/vacancy/52287893) не просмотрено
-[FBS](https://spb.hh.ru/vacancy/54143891) звонок
+[FBS](https://spb.hh.ru/vacancy/54143891) <p class="green">звонок</p>
 
 Статусы:
 не просмотрено | просмотрено | звонок | отказ | техническое задание |приглашение на собеседование | собеседование | приглашение на работу

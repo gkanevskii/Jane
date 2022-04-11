@@ -6,5 +6,5 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "useMarkdownLinks": true,
-  "showFrontmatter": true
+  "showFrontmatter": false
 }
