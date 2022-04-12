@@ -20,7 +20,7 @@
 [Раппорто](https://spb.hh.ru/vacancy/54663878) просмотрено
 [Финстек Бел](https://spb.hh.ru/vacancy/54249710) не просмотрено
 [Swoo](https://spb.hh.ru/vacancy/54514345) просмотрено
-[ВКО Символ](https://spb.hh.ru/vacancy/53985307) не просмотрено
+<s>[ВКО Символ](https://spb.hh.ru/vacancy/53985307)</s>  отказ
 [Дженикс](https://spb.hh.ru/vacancy/53978132) не просмотрено
 [Albatross Internet Group](https://spb.hh.ru/vacancy/54398620) не просмотрено
 [DV-Consulting](https://spb.hh.ru/vacancy/54496660) просмотрено
@@ -32,7 +32,7 @@
 [Bercut](https://spb.hh.ru/vacancy/51494540) не просмотрено
 [ITooLabs](https://spb.hh.ru/vacancy/54653746) не просмотрено
 [Солантек](https://spb.hh.ru/vacancy/45520763) не просмотрено
-[Waves Enterprise](https://spb.hh.ru/vacancy/54650085) <p class="green">звонок в 13.00 Вторник Telegram</p>
+[Waves Enterprise](https://spb.hh.ru/vacancy/54650085) возможна релокация в Эмираты <p class="green">звонок в 13.00 Вторник Telegram был на рассмотрении</p>
 [ЦРПТ](https://spb.hh.ru/vacancy/54650085) не просмотрено
 [VK](https://spb.hh.ru/vacancy/54584971) не просмотрено
 [Aurus](https://spb.hh.ru/vacancy/54594302) не просмотрено
