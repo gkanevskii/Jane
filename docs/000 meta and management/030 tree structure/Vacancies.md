@@ -43,11 +43,11 @@
 [Flipper Devices](https://spb.hh.ru/vacancy/53021699) не просмотрено
 [МТС](https://spb.hh.ru/vacancy/50874906) просмотрено
 [Selectel](https://spb.hh.ru/vacancy/54005036) не просмотрено
-[Unlimint](https://spb.hh.ru/vacancy/52552067) <p class="green">звонок в 18.00 Вторник Telegram</p>
+[Unlimint](https://spb.hh.ru/vacancy/52552067) <p class="green">звонок в 18.00 Вторник Telegram был на рассмотрении до среды</p>
 [Saber Interactive](https://spb.hh.ru/vacancy/48220640) не просмотрено
 [Hook Production](https://spb.hh.ru/vacancy/53816240) просмотрено
 [Комус](https://spb.hh.ru/vacancy/52287893) не просмотрено
-[FBS](https://spb.hh.ru/vacancy/54143891) <p class="green">звонок в 11.00 Среда Telegram</p>
+[FBS](https://spb.hh.ru/vacancy/54143891) <p class="green">звонок в 14.30 Пятница Telegram</p>
 Расчетные решения <p class="green">звонок</p>
 [РНКБ](https://krasnodar.hh.ru/vacancy/50731622) <p class="green">звонок</p>
 
