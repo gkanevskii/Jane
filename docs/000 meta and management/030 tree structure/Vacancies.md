@@ -6,7 +6,7 @@
 [TWIN](https://spb.hh.ru/vacancy/54681469) просмотрено
 [Лига Цифровой Экономики](https://spb.hh.ru/vacancy/54664957) не просмотрено
 [ЕДИНЫЙ ЦУПИС](https://spb.hh.ru/vacancy/52489123) <p class="green">звонок в 12.00 Пятница <a href="https://1cupis-ru.zoom.us/j/7657121543">Zoom</a></p>
-[билайн: контактные центры](https://spb.hh.ru/vacancy/54297485) просмотрено
+<s>[билайн: контактные центры](https://spb.hh.ru/vacancy/54297485)</s> отказ
 <s>[Шеф Маркет](https://spb.hh.ru/vacancy/48585004)</s> отказ
 [Мунэксперт](https://spb.hh.ru/vacancy/52630766) не просмотрено
 [МСН Телеком](https://spb.hh.ru/vacancy/54471889) не просмотрено
