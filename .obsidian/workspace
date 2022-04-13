@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/000 meta and management/030 tree structure/Vacancies.md",
+            "file": "docs/400 contacts/420 relatives/426 blood relatives 4/Федор Анатольевич Сягин.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "career",
+                "query": "федор",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/000 meta and management/030 tree structure/Vacancies.md",
+                "file": "docs/400 contacts/420 relatives/426 blood relatives 4/Федор Анатольевич Сягин.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/000 meta and management/030 tree structure/Vacancies.md",
+                "file": "docs/400 contacts/420 relatives/426 blood relatives 4/Федор Анатольевич Сягин.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -128,6 +128,7 @@
   },
   "active": "7a2b778430183954",
   "lastOpenFiles": [
+    "docs/400 contacts/420 relatives/426 blood relatives 4/Федор Анатольевич Сягин.md",
     "docs/000 meta and management/030 tree structure/Vacancies.md",
     "docs/000 meta and management/030 tree structure/Career.md",
     "docs/000 meta and management/030 tree structure/Space of Life.md",
@@ -136,7 +137,6 @@
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
     "docs/400 contacts/410 non-relatives/419 fiancee/Нина Александровна Ученова.md",
     "docs/100 art/110 video art/Video art.md",
-    "docs/100 art/110 video art/Watchlist.md",
-    "docs/900 problems/930 teaching approach/Hogwartz methodology.md"
+    "docs/100 art/110 video art/Watchlist.md"
   ]
 }
