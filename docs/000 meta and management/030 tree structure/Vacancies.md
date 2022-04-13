@@ -7,7 +7,7 @@
 [Лига Цифровой Экономики](https://spb.hh.ru/vacancy/54664957) не просмотрено
 [ЕДИНЫЙ ЦУПИС](https://spb.hh.ru/vacancy/52489123) <p class="green">звонок в 12.00 Пятница <a href="https://1cupis-ru.zoom.us/j/7657121543">Zoom</a></p>
 [билайн: контактные центры](https://spb.hh.ru/vacancy/54297485) просмотрено
-[Шеф Маркет](https://spb.hh.ru/vacancy/48585004) не просмотрено
+<s>[Шеф Маркет](https://spb.hh.ru/vacancy/48585004)</s> отказ
 [Мунэксперт](https://spb.hh.ru/vacancy/52630766) не просмотрено
 [МСН Телеком](https://spb.hh.ru/vacancy/54471889) не просмотрено
 [Мир Хобби](https://spb.hh.ru/vacancy/53921861) не просмотрено
@@ -28,7 +28,7 @@
 [БиАйЭй-Технолоджиз](https://spb.hh.ru/vacancy/54685902) не просмотрено
 [Quadcode](https://spb.hh.ru/vacancy/54693015) просмотрено Cyprus
 [Брайт Софт](https://spb.hh.ru/vacancy/54193579) не просмотрено
-[Тагес Джамп](https://spb.hh.ru/vacancy/54111715) не просмотрено
+[Тагес Джамп](https://spb.hh.ru/vacancy/54111715) <p class="green">звонок</p>
 [Bercut](https://spb.hh.ru/vacancy/51494540) не просмотрено
 [ITooLabs](https://spb.hh.ru/vacancy/54653746) не просмотрено
 [Солантек](https://spb.hh.ru/vacancy/45520763) не просмотрено
@@ -49,6 +49,7 @@
 [Комус](https://spb.hh.ru/vacancy/52287893) не просмотрено
 [FBS](https://spb.hh.ru/vacancy/54143891) <p class="green">звонок в 11.00 Среда Telegram</p>
 Расчетные решения <p class="green">звонок</p>
+[РНКБ](https://krasnodar.hh.ru/vacancy/50731622) <p class="green">звонок</p>
 
 Статусы:
 не просмотрено | просмотрено | звонок | отказ | техническое задание |приглашение на собеседование | собеседование | приглашение на работу
