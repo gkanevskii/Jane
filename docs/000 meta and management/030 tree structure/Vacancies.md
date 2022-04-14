@@ -35,7 +35,7 @@
 [Waves Enterprise](https://spb.hh.ru/vacancy/54650085) возможна релокация в Эмираты <p class="green">звонок в 13.00 Вторник Telegram был на рассмотрении</p>
 [ЦРПТ](https://spb.hh.ru/vacancy/54650085) не просмотрено
 [VK](https://spb.hh.ru/vacancy/54584971) не просмотрено
-[Aurus](https://spb.hh.ru/vacancy/54594302) не просмотрено
+<s>[Aurus](https://spb.hh.ru/vacancy/54594302)</s> отказ
 [ENGY](https://spb.hh.ru/vacancy/54282338) не просмотрено
 [Selectel](https://spb.hh.ru/vacancy/51900206) не просмотрено
 [Skolkovo](https://spb.hh.ru/vacancy/54392956) просмотрено
