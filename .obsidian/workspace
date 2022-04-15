@@ -7,8 +7,12 @@
         "id": "7a2b778430183954",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/000 meta and management/030 tree structure/Vacancies.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vacanc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/000 meta and management/030 tree structure/Vacancies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/000 meta and management/030 tree structure/Vacancies.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -121,8 +128,8 @@
   },
   "active": "7a2b778430183954",
   "lastOpenFiles": [
-    "docs/400 contacts/410 non-relatives/419 fiancee/Нина Александровна Ученова.md",
     "docs/000 meta and management/030 tree structure/Vacancies.md",
+    "docs/400 contacts/410 non-relatives/419 fiancee/Нина Александровна Ученова.md",
     "docs/400 contacts/420 relatives/426 blood relatives 4/Федор Анатольевич Сягин.md",
     "docs/000 meta and management/030 tree structure/Career.md",
     "docs/000 meta and management/030 tree structure/Space of Life.md",
