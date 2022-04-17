@@ -7,12 +7,8 @@
         "id": "7a2b778430183954",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/400 contacts/410 non-relatives/Social Tree.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/410 non-relatives/Social Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/410 non-relatives/Social Tree.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
