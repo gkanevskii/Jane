@@ -7,9 +7,11 @@
         "id": "7a2b778430183954",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63069632.png"
+            "file": "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "максим александрович",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.01499938964844
+    "width": 401.01499938964844,
+    "collapsed": true
   },
   "right": {
     "id": "89568aed9e1aabb2",
@@ -75,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63069632.png",
+                "file": "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63069632.png",
+                "file": "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -121,10 +124,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.1999969482422
+    "width": 215.1999969482422,
+    "collapsed": true
   },
   "active": "7a2b778430183954",
   "lastOpenFiles": [
+    "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
+    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63069632.png",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63069376.png",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63066304.png",
@@ -132,8 +138,6 @@
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f62960960.png",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63114368.png",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63109696.png",
-    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63109312.png",
-    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63107456.png",
-    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63107008.png"
+    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63109312.png"
   ]
 }
