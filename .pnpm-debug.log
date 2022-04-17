@@ -1,0 +1,14 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND",
+    "err": {
+      "name": "pnpm",
+      "message": "No package.json (or package.yaml, or package.json5) was found in \"E:\\900 pet projects\\910 zettelkasten\\911 jane\".",
+      "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND",
+      "stack": "pnpm: No package.json (or package.yaml, or package.json5) was found in \"E:\\900 pet projects\\910 zettelkasten\\911 jane\".\n    at readProjectManifest (C:\\Users\\User1\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:19815:13)\n    at async Object.readProjectManifestOnly (C:\\Users\\User1\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:19819:28)\n    at async readProjectManifestOnly (C:\\Users\\User1\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:43733:24)\n    at async Object.handler (C:\\Users\\User1\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:177971:24)\n    at async C:\\Users\\User1\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:182247:21\n    at async run (C:\\Users\\User1\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:182221:34)\n    at async runPnpm (C:\\Users\\User1\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:182440:5)\n    at async C:\\Users\\User1\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:182432:7"
+    }
+  }
+}
