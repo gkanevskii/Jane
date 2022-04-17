@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
+            "file": "docs/400 contacts/420 relatives/428 blood relatives 2/Александр Семенович Каневский.md",
             "mode": "source",
             "source": false
           }
@@ -40,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "максим александрович",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
+                "file": "docs/400 contacts/420 relatives/428 blood relatives 2/Александр Семенович Каневский.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
+                "file": "docs/400 contacts/420 relatives/428 blood relatives 2/Александр Семенович Каневский.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -129,15 +130,15 @@
   },
   "active": "7a2b778430183954",
   "lastOpenFiles": [
+    "docs/400 contacts/420 relatives/428 blood relatives 2/Александр Семенович Каневский.md",
+    "docs/400 contacts/410 non-relatives/415 acquaintances/Илья Волосов.md",
+    "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
     "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
+    "docs/400 contacts/420 relatives/428 blood relatives 2/Галина Александровна Каневская.md",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63069632.png",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63069376.png",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63066304.png",
-    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63064896.png",
-    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f62960960.png",
-    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63114368.png",
-    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63109696.png",
-    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63109312.png"
+    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/f63064896.png"
   ]
 }
