@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
+            "file": "docs/400 contacts/420 relatives/427 blood relatives 3/Давид Александрович Каневский.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "давид ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
+                "file": "docs/400 contacts/420 relatives/427 blood relatives 3/Давид Александрович Каневский.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
+                "file": "docs/400 contacts/420 relatives/427 blood relatives 3/Давид Александрович Каневский.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -130,15 +130,15 @@
   },
   "active": "7a2b778430183954",
   "lastOpenFiles": [
-    "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
+    "docs/400 contacts/420 relatives/427 blood relatives 3/Давид Александрович Каневский.md",
     "docs/400 contacts/420 relatives/429 blood relatives 1/Дарья Анатольевна Каневская.md",
+    "docs/400 contacts/420 relatives/425 blood relatives 5/Марина Леоновна Котлярская.md",
+    "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
     "docs/400 contacts/420 relatives/428 blood relatives 2/Эсфирь Александровна Панн.md",
     "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
     "docs/400 contacts/420 relatives/428 blood relatives 2/Александр Семенович Каневский.md",
-    "docs/400 contacts/420 relatives/427 blood relatives 3/Давид Александрович Каневский.md",
     "docs/400 contacts/420 relatives/427 blood relatives 3/Илья Александрович Каневский.md",
     "docs/400 contacts/420 relatives/426 blood relatives 4/Владимир Александрович Каневский.md",
-    "docs/400 contacts/410 non-relatives/415 acquaintances/Илья Волосов.md",
-    "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md"
+    "docs/400 contacts/410 non-relatives/415 acquaintances/Илья Волосов.md"
   ]
 }
