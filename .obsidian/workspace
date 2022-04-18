@@ -7,8 +7,12 @@
         "id": "d62267bff6ca758c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/000 meta and management/030 tree structure/Vacancies.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "давид ка",
+                "query": "vacan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/000 meta and management/030 tree structure/Vacancies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/000 meta and management/030 tree structure/Vacancies.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -122,6 +128,7 @@
   },
   "active": "d62267bff6ca758c",
   "lastOpenFiles": [
+    "docs/000 meta and management/030 tree structure/Vacancies.md",
     "docs/400 contacts/420 relatives/427 blood relatives 3/Давид Александрович Каневский.md",
     "docs/400 contacts/420 relatives/429 blood relatives 1/Дарья Анатольевна Каневская.md",
     "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
@@ -130,7 +137,6 @@
     "docs/400 contacts/410 non-relatives/419 fiancee/Нина Александровна Ученова.md",
     "docs/400 contacts/410 non-relatives/415 acquaintances/Алексей Байдаков.md",
     "docs/400 contacts/410 non-relatives/415 acquaintances/Илья Волосов.md",
-    "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
-    "docs/400 contacts/410 non-relatives/Social Tree.md"
+    "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md"
   ]
 }

@@ -1,7 +1,7 @@
 [АванПост](https://spb.hh.ru/vacancy/54581706) не просмотрено
 [Engy](https://spb.hh.ru/vacancy/54282338) <p class="green">звонок в 18.30 Четверг Zoom</p>
 [Devino Telecom](https://spb.hh.ru/vacancy/50978483) не просмотрено
-[SberTech](https://spb.hh.ru/vacancy/50025505) <p class="green">звонок был, на рассмотрении до среды</p>
+[SberTech](https://spb.hh.ru/vacancy/50025505) <p class="green">вторник 11.00</p>
 [PointPay](https://spb.hh.ru/vacancy/54433462) просмотрено
 [TWIN](https://spb.hh.ru/vacancy/54681469) просмотрено
 [Лига Цифровой Экономики](https://spb.hh.ru/vacancy/54664957) не просмотрено
@@ -32,7 +32,7 @@
 [Bercut](https://spb.hh.ru/vacancy/51494540) не просмотрено
 [ITooLabs](https://spb.hh.ru/vacancy/54653746) не просмотрено
 [Солантек](https://spb.hh.ru/vacancy/45520763) не просмотрено
-[Waves Enterprise](https://spb.hh.ru/vacancy/54650085) возможна релокация в Эмираты <p class="green">звонок в 13.00 Вторник Telegram был на рассмотрении</p>
+[Waves Enterprise](https://spb.hh.ru/vacancy/54650085) возможна релокация в Эмираты <p class="green">отказ</p>
 [ЦРПТ](https://spb.hh.ru/vacancy/54650085) не просмотрено
 [VK](https://spb.hh.ru/vacancy/54584971) не просмотрено
 <s>[Aurus](https://spb.hh.ru/vacancy/54594302)</s> отказ
