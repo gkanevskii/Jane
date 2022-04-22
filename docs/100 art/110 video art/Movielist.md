@@ -9,6 +9,3 @@ Tags: #video
 <a href="http://thekinopoisk.com/films/drama/840-santa-klaus-1994.html">[[The Santa Clause]]</a>
 <a href="http://thekinopoisk.com/films/drama/311-my-kupili-zoopark-2011.html">[[We Bought a Zoo]]</a>
 <a href="http://thekinopoisk.com/films/adventures/1230-neveroyatnaya-zhizn-uoltera-mitti-2013.html">[[The Secret Life of Walter Mitty]]</a>
-[[Spider-Man No Way Home]]
-
-On eye: http://thekinopoisk.com/films/fiction/41486-chelovek-pauk-net-puti-domoy-2021.html
