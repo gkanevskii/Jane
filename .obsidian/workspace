@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
+            "file": "docs/700 linguist work/790 Viscachas/Viscacha.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
+                "file": "docs/700 linguist work/790 Viscachas/Viscacha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
+                "file": "docs/700 linguist work/790 Viscachas/Viscacha.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -128,15 +127,15 @@
   },
   "active": "d2c8be91032803a2",
   "lastOpenFiles": [
-    "docs/900 problems/930 teaching approach/Hogwartz methodology.md",
-    "docs/100 art/110 video art/113 series/Sherlock.md",
-    "docs/100 art/110 video art/111 movies/Lucy.md",
-    "docs/100 art/110 video art/111 movies/Noah.md",
-    "docs/100 art/110 video art/111 movies/Skellig.md",
-    "docs/100 art/110 video art/111 movies/Stranger Than Fiction.md",
-    "docs/100 art/110 video art/Serieslist.md",
+    "docs/700 linguist work/790 Viscachas/Viscacha.md",
+    "docs/700 linguist work/710 Caenmort/Grimoire of Master Caenmort.md",
+    "docs/300 foods/Foods.md",
     "docs/100 art/110 video art/Franchiselist.md",
-    "docs/100 art/110 video art/Movielist.md",
-    "docs/100 art/110 video art/111 movies/Spider-Man No Way Home.md"
+    "docs/100 art/110 video art/113 series/The Good Place.md",
+    "docs/100 art/110 video art/113 series/The end of the fucking world.md",
+    "docs/100 art/110 video art/113 series/Heroes.md",
+    "docs/100 art/110 video art/113 series/Blacklist.md",
+    "docs/100 art/110 video art/113 series/Being Human.md",
+    "docs/100 art/110 video art/113 series/Brave New World.md"
   ]
 }
