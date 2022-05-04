@@ -1,9 +1,8 @@
 {
   "baseFontSize": 19,
-  "cssTheme": "Obsidianite",
+  "cssTheme": "California Coast",
   "translucency": false,
-  "enabledCssSnippets": [
-    "style"
-  ],
-  "theme": "obsidian"
+  "enabledCssSnippets": [],
+  "theme": "moonstone",
+  "baseFontSizeAction": true
 }
