@@ -7,11 +7,9 @@
         "id": "d2c8be91032803a2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Ученова.md",
-            "mode": "source",
-            "source": false
+            "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Ученова.md",
+                "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Ученова.md",
+                "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,10 +125,10 @@
   },
   "active": "d2c8be91032803a2",
   "lastOpenFiles": [
+    "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Ученова.md",
     "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
     "docs/400 contacts/410 non-relatives/415 acquaintances/Илья Волосов.md",
-    "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
     "docs/400 contacts/420 relatives/Family Tree.md",
     "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
     "docs/400 contacts/420 relatives/428 blood relatives 2/Александр Семенович Каневский.md",
