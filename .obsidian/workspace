@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/400 contacts/420 relatives/426 blood relatives 4/Лариса Александровна Лебедева.md",
+            "file": "docs/000 meta and management/030 tree structure/Social Accounts.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "григорий",
+                "query": "accounts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/420 relatives/426 blood relatives 4/Лариса Александровна Лебедева.md",
+                "file": "docs/000 meta and management/030 tree structure/Social Accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/420 relatives/426 blood relatives 4/Лариса Александровна Лебедева.md",
+                "file": "docs/000 meta and management/030 tree structure/Social Accounts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,6 +128,7 @@
   },
   "active": "d2c8be91032803a2",
   "lastOpenFiles": [
+    "docs/000 meta and management/030 tree structure/Social Accounts.md",
     "docs/400 contacts/420 relatives/426 blood relatives 4/Лариса Александровна Лебедева.md",
     "docs/400 contacts/420 relatives/427 blood relatives 3/Людмила Жигалкина.md",
     "docs/400 contacts/420 relatives/428 blood relatives 2/Галина Александровна Каневская.md",
@@ -135,7 +137,6 @@
     "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Ученова.md",
     "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
     "docs/400 contacts/410 non-relatives/415 acquaintances/Илья Волосов.md",
-    "docs/400 contacts/420 relatives/Family Tree.md",
-    "docs/400 contacts/420 relatives/428 blood relatives 2/Александр Семенович Каневский.md"
+    "docs/400 contacts/420 relatives/Family Tree.md"
   ]
 }
