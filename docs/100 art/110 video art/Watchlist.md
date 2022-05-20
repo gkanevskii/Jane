@@ -8,17 +8,17 @@ Tags: #video
 - [ ] http://thekinopoisk.com/series/fiction/46416-razdelenie-2022.html
 - [ ] http://thekinopoisk.com/films/comedy/28240-ty-vodish-2018.html
 - [ ] http://thekinopoisk.com/films/detective/32580-dostat-nozhi-2019.html
-- [ ] http://thekinopoisk.com/cartoons/fiction/33173-dom-sovy-2020.html
+- [x] http://thekinopoisk.com/cartoons/fiction/33173-dom-sovy-2020.html
 - [x] http://thekinopoisk.com/cartoons/fiction/42643-neispravimyy-ron-2021.html
 - [x] http://thekinopoisk.com/cartoons/fiction/3373-v-gosti-k-robinsonam-2007.html
 - [ ] http://thekinopoisk.com/series/melodrama/40419-ya-znayu-no-2021.html#t:114-s:1-e:2
 - [ ] http://thekinopoisk.com/cartoons/fantasy/36521-rayya-i-posledniy-drakon-2021.html
-- [ ] http://thekinopoisk.com/cartoons/fiction/34982-kleopatra-v-kosmose-2019.html
-- [ ] http://thekinopoisk.com/cartoons/fiction/27285-kosmicheskiy-rubezh-2018.html
+- [x] http://thekinopoisk.com/cartoons/fiction/34982-kleopatra-v-kosmose-2019.html
+- [x] http://thekinopoisk.com/cartoons/fiction/27285-kosmicheskiy-rubezh-2018.html
 - [ ] http://thekinopoisk.com/series/drama/28402-ty-2018.html
 - [ ] http://thekinopoisk.com/series/thriller/44980-zhenschina-v-dome-naprotiv-devushki-v-okne-2022.html
 - [ ] http://thekinopoisk.com/series/drama/31663-pochemu-zhenschiny-ubivayut-2019.html
-- [ ] http://thekinopoisk.com/animation/comedy/20326-ochen-priyatno-bog-tv-1-2012.html
+- [x] http://thekinopoisk.com/animation/comedy/20326-ochen-priyatno-bog-tv-1-2012.html
 - [x] http://thekinopoisk.com/series/action/2143-skorpion-2014.html#t:31-s:1-e:1
 - [ ] http://thekinopoisk.com/films/comedy/7606-lovushka-dlya-roditeley-1998.html
 - [ ] http://thekinopoisk.com/films/drama/33816-bankir-2020.html

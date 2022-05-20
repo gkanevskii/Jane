@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/100 art/110 video art/Serieslist.md",
+            "file": "docs/100 art/110 video art/Watchlist.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/100 art/110 video art/Serieslist.md",
+                "file": "docs/100 art/110 video art/Watchlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/100 art/110 video art/Serieslist.md",
+                "file": "docs/100 art/110 video art/Watchlist.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,15 +127,15 @@
   },
   "active": "60d51a9748ee8a21",
   "lastOpenFiles": [
+    "docs/100 art/110 video art/Watchlist.md",
+    "docs/100 art/110 video art/Channellist.md",
+    "docs/100 art/110 video art/Franchiselist.md",
     "docs/100 art/110 video art/Serieslist.md",
     "docs/100 art/110 video art/Movielist.md",
     "docs/100 art/110 video art/Cartoonlist.md",
     "docs/600 autobiography/620 Childhood/Childhood.md",
     "docs/900 problems/920 global/921 financial/Debts.md",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Крампус Небывальтич.md",
-    "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f110144576.png",
-    "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f110148416.png",
-    "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f86322624.png",
-    "docs/400 contacts/410 non-relatives/415 acquaintances/Владимир Майков.md"
+    "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f110144576.png"
   ]
 }
