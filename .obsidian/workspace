@@ -4,23 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "01ccd235e10b5a12",
+        "id": "60d51a9748ee8a21",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/900 problems/920 global/921 financial/Debts.md",
+            "file": "docs/100 art/110 video art/Serieslist.md",
             "mode": "source",
             "source": false
           }
-        }
-      },
-      {
-        "id": "60d51a9748ee8a21",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -65,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/900 problems/920 global/921 financial/Debts.md",
+                "file": "docs/100 art/110 video art/Serieslist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/900 problems/920 global/921 financial/Debts.md",
+                "file": "docs/100 art/110 video art/Serieslist.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,17 +125,17 @@
     "direction": "horizontal",
     "width": 215.1999969482422
   },
-  "active": "01ccd235e10b5a12",
+  "active": "60d51a9748ee8a21",
   "lastOpenFiles": [
+    "docs/100 art/110 video art/Serieslist.md",
+    "docs/100 art/110 video art/Movielist.md",
+    "docs/100 art/110 video art/Cartoonlist.md",
+    "docs/600 autobiography/620 Childhood/Childhood.md",
     "docs/900 problems/920 global/921 financial/Debts.md",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Крампус Небывальтич.md",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f110144576.png",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f110148416.png",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f86322624.png",
-    "docs/400 contacts/410 non-relatives/415 acquaintances/Владимир Майков.md",
-    "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
-    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
-    "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
-    "docs/400 contacts/420 relatives/428 blood relatives 2/Александр Семенович Каневский.md"
+    "docs/400 contacts/410 non-relatives/415 acquaintances/Владимир Майков.md"
   ]
 }
