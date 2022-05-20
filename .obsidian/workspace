@@ -4,33 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3fb9a39f5921ef9",
-        "type": "split",
-        "children": [
-          {
-            "id": "01ccd235e10b5a12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/400 contacts/420 relatives/428 blood relatives 2/Эсфирь Александровна Панн.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69c4a0700e851cab",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf"
-              }
-            }
+        "id": "01ccd235e10b5a12",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -94,11 +77,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/420 relatives/428 blood relatives 2/Эсфирь Александровна Панн.md",
+                "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -122,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/420 relatives/428 blood relatives 2/Эсфирь Александровна Панн.md",
+                "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -144,15 +127,15 @@
   },
   "active": "01ccd235e10b5a12",
   "lastOpenFiles": [
-    "docs/400 contacts/420 relatives/428 blood relatives 2/Эсфирь Александровна Панн.md",
-    "docs/400 contacts/420 relatives/429 blood relatives 1/Дарья Анатольевна Каневская.md",
-    "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
+    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
     "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
     "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
     "docs/400 contacts/420 relatives/428 blood relatives 2/Александр Семенович Каневский.md",
-    "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
-    "docs/400 contacts/420 relatives/424 blood relatives/Екатерина Давидовна Каневская.md",
-    "docs/400 contacts/410 non-relatives/415 acquaintances/Владимир Майков.md",
-    "docs/400 contacts/410 non-relatives/415 acquaintances/Алексей Байдаков.md"
+    "docs/400 contacts/420 relatives/427 blood relatives 3/Давид Александрович Каневский.md",
+    "docs/400 contacts/420 relatives/429 blood relatives 1/Дарья Анатольевна Каневская.md",
+    "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
+    "docs/400 contacts/420 relatives/424 blood relatives/Алиса Михайловна Котлярская.md",
+    "docs/400 contacts/420 relatives/428 blood relatives 2/Эсфирь Александровна Панн.md",
+    "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf"
   ]
 }
