@@ -7,12 +7,18 @@
         "id": "01ccd235e10b5a12",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
-            "mode": "source",
-            "source": false
+            "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f86322624.png"
           }
+        }
+      },
+      {
+        "id": "60d51a9748ee8a21",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
+                "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f86322624.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
+                "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f86322624.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,15 +133,15 @@
   },
   "active": "01ccd235e10b5a12",
   "lastOpenFiles": [
-    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
+    "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f86322624.png",
+    "docs/400 contacts/410 non-relatives/415 acquaintances/Владимир Майков.md",
     "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
+    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
     "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
     "docs/400 contacts/420 relatives/428 blood relatives 2/Александр Семенович Каневский.md",
     "docs/400 contacts/420 relatives/427 blood relatives 3/Давид Александрович Каневский.md",
     "docs/400 contacts/420 relatives/429 blood relatives 1/Дарья Анатольевна Каневская.md",
     "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
-    "docs/400 contacts/420 relatives/424 blood relatives/Алиса Михайловна Котлярская.md",
-    "docs/400 contacts/420 relatives/428 blood relatives 2/Эсфирь Александровна Панн.md",
-    "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf"
+    "docs/400 contacts/420 relatives/424 blood relatives/Алиса Михайловна Котлярская.md"
   ]
 }
