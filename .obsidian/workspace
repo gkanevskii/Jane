@@ -7,9 +7,11 @@
         "id": "01ccd235e10b5a12",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f86322624.png"
+            "file": "docs/900 problems/920 global/921 financial/Debts.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f86322624.png",
+                "file": "docs/900 problems/920 global/921 financial/Debts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f86322624.png",
+                "file": "docs/900 problems/920 global/921 financial/Debts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,15 +135,15 @@
   },
   "active": "01ccd235e10b5a12",
   "lastOpenFiles": [
+    "docs/900 problems/920 global/921 financial/Debts.md",
+    "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Крампус Небывальтич.md",
+    "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f110144576.png",
+    "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f110148416.png",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Крампус Небывальтич/Переписка/f86322624.png",
     "docs/400 contacts/410 non-relatives/415 acquaintances/Владимир Майков.md",
     "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
     "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
-    "docs/400 contacts/420 relatives/428 blood relatives 2/Александр Семенович Каневский.md",
-    "docs/400 contacts/420 relatives/427 blood relatives 3/Давид Александрович Каневский.md",
-    "docs/400 contacts/420 relatives/429 blood relatives 1/Дарья Анатольевна Каневская.md",
-    "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
-    "docs/400 contacts/420 relatives/424 blood relatives/Алиса Михайловна Котлярская.md"
+    "docs/400 contacts/420 relatives/428 blood relatives 2/Александр Семенович Каневский.md"
   ]
 }
