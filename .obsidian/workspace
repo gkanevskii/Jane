@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
+            "file": "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Ученова.md",
             "mode": "source",
             "source": false
           }
@@ -78,14 +78,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
+                "file": "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Ученова.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
+                "file": "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Ученова.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -128,8 +128,8 @@
   },
   "active": "c2dbea12df172d67",
   "lastOpenFiles": [
-    "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Ученова.md",
+    "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
     "docs/400 contacts/420 relatives/424 blood relatives/idNU.pdf",
     "docs/100 art/110 video art/Movielist.md",
     "docs/100 art/110 video art/Franchiselist.md",
