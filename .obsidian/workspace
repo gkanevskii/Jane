@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "60d51a9748ee8a21",
+        "id": "c2dbea12df172d67",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/100 art/110 video art/Movielist.md",
+            "file": "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Ученова.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "рычков",
+                "query": "каневский григорий",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/100 art/110 video art/Movielist.md",
+                "file": "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Ученова.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/100 art/110 video art/Movielist.md",
+                "file": "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Ученова.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,17 +126,17 @@
     "direction": "horizontal",
     "width": 215.1999969482422
   },
-  "active": "60d51a9748ee8a21",
+  "active": "c2dbea12df172d67",
   "lastOpenFiles": [
+    "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Ученова.md",
+    "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
+    "docs/400 contacts/420 relatives/424 blood relatives/idNU.pdf",
     "docs/100 art/110 video art/Movielist.md",
     "docs/100 art/110 video art/Franchiselist.md",
     "docs/100 art/110 video art/Serieslist.md",
     "docs/100 art/110 video art/Video art.md",
     "docs/100 art/110 video art/Streamlist.md",
     "docs/100 art/110 video art/Cartoonlist.md",
-    "docs/100 art/110 video art/Channellist.md",
-    "docs/900 problems/920 global/922 political/Expel from Russia.md",
-    "docs/900 problems/920 global/922 political/Russian-Ukranian conflict.md",
-    "docs/900 problems/920 global/GlobalProblemlist.md"
+    "docs/100 art/110 video art/Channellist.md"
   ]
 }
