@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/100 art/110 video art/Franchiselist.md",
+            "file": "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "каневский григорий",
+                "query": "меньшиков",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/100 art/110 video art/Franchiselist.md",
+                "file": "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/100 art/110 video art/Franchiselist.md",
+                "file": "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,6 +128,7 @@
   },
   "active": "c2dbea12df172d67",
   "lastOpenFiles": [
+    "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
     "docs/100 art/110 video art/Franchiselist.md",
     "docs/100 art/110 video art/Channellist.md",
     "docs/100 art/110 video art/Cartoonlist.md",
@@ -135,7 +137,6 @@
     "docs/100 art/110 video art/Streamlist.md",
     "docs/100 art/110 video art/Video art.md",
     "docs/100 art/110 video art/Watchlist.md",
-    "docs/900 problems/920 global/921 financial/Debts.md",
-    "docs/900 problems/920 global/GlobalProblemlist.md"
+    "docs/900 problems/920 global/921 financial/Debts.md"
   ]
 }
