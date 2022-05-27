@@ -11,7 +11,7 @@
           "state": {
             "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.01499938964844,
-    "collapsed": true
+    "width": 401.01499938964844
   },
   "right": {
     "id": "89568aed9e1aabb2",
