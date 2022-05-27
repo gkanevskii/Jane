@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
+            "file": "docs/400 contacts/420 relatives/427 blood relatives 3/Илья Александрович Каневский.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
+                "file": "docs/400 contacts/420 relatives/427 blood relatives 3/Илья Александрович Каневский.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
+                "file": "docs/400 contacts/420 relatives/427 blood relatives 3/Илья Александрович Каневский.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,15 +127,15 @@
   },
   "active": "86f4ad4d5d0cf035",
   "lastOpenFiles": [
+    "docs/400 contacts/420 relatives/427 blood relatives 3/Илья Александрович Каневский.md",
+    "docs/400 contacts/420 relatives/428 blood relatives 2/Александр Семенович Каневский.md",
+    "docs/400 contacts/420 relatives/426 blood relatives 4/Владимир Александрович Каневский.md",
+    "docs/400 contacts/420 relatives/425 blood relatives 5/Аделина Владимировна Каневская.md",
     "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
     "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
+    "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Ученова.md",
     "docs/400 contacts/420 relatives/424 blood relatives/epiphCertGK 1.pdf",
     "docs/400 contacts/420 relatives/424 blood relatives/workIDGK 1.pdf",
-    "docs/400 contacts/420 relatives/424 blood relatives/vaccCertGK 1.pdf",
-    "docs/400 contacts/420 relatives/424 blood relatives/payoffID 1.pdf",
-    "docs/400 contacts/420 relatives/424 blood relatives/insuranceID 1.pdf",
-    "docs/400 contacts/420 relatives/424 blood relatives/militaryIDGK 1.pdf",
-    "docs/400 contacts/420 relatives/424 blood relatives/passportGKold 1.pdf",
-    "docs/400 contacts/420 relatives/424 blood relatives/medInsuranceGK 1.pdf"
+    "docs/400 contacts/420 relatives/424 blood relatives/vaccCertGK 1.pdf"
   ]
 }
