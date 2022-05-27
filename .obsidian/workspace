@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c2dbea12df172d67",
+        "id": "86f4ad4d5d0cf035",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/000 meta and management/030 tree structure/Social Accounts.md",
+            "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "accounts",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,12 +57,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 401.01499938964844
+    "width": 401.01499938964844,
+    "collapsed": true
   },
   "right": {
     "id": "89568aed9e1aabb2",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/000 meta and management/030 tree structure/Social Accounts.md",
+                "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/000 meta and management/030 tree structure/Social Accounts.md",
+                "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,17 +126,17 @@
     "direction": "horizontal",
     "width": 215.1999969482422
   },
-  "active": "c2dbea12df172d67",
+  "active": "86f4ad4d5d0cf035",
   "lastOpenFiles": [
-    "docs/000 meta and management/030 tree structure/Social Accounts.md",
-    "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
-    "docs/100 art/110 video art/Franchiselist.md",
-    "docs/100 art/110 video art/Channellist.md",
-    "docs/100 art/110 video art/Cartoonlist.md",
-    "docs/100 art/110 video art/Movielist.md",
-    "docs/100 art/110 video art/Serieslist.md",
-    "docs/100 art/110 video art/Streamlist.md",
-    "docs/100 art/110 video art/Video art.md",
-    "docs/100 art/110 video art/Watchlist.md"
+    "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
+    "docs/400 contacts/420 relatives/424 blood relatives/epiphCertGK 1.pdf",
+    "docs/400 contacts/420 relatives/424 blood relatives/workIDGK 1.pdf",
+    "docs/400 contacts/420 relatives/424 blood relatives/vaccCertGK 1.pdf",
+    "docs/400 contacts/420 relatives/424 blood relatives/payoffID 1.pdf",
+    "docs/400 contacts/420 relatives/424 blood relatives/insuranceID 1.pdf",
+    "docs/400 contacts/420 relatives/424 blood relatives/militaryIDGK 1.pdf",
+    "docs/400 contacts/420 relatives/424 blood relatives/passportGKold 1.pdf",
+    "docs/400 contacts/420 relatives/424 blood relatives/medInsuranceGK 1.pdf",
+    "docs/400 contacts/420 relatives/429 blood relatives 1/Дарья Анатольевна Каневская.md"
   ]
 }
