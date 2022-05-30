@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "григорий каневский",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,6 +128,7 @@
   "active": "86f4ad4d5d0cf035",
   "lastOpenFiles": [
     "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
+    "docs/400 contacts/410 non-relatives/415 acquaintances/Илья Леонидович Волосов.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Каневская.md",
     "docs/400 contacts/420 relatives/429 blood relatives 1/Дарья Анатольевна Каневская.md",
     "docs/000 meta and management/030 tree structure/Social Accounts.md",
@@ -136,7 +136,6 @@
     "docs/400 contacts/420 relatives/428 blood relatives 2/Александр Семенович Каневский.md",
     "docs/400 contacts/420 relatives/426 blood relatives 4/Владимир Александрович Каневский.md",
     "docs/400 contacts/420 relatives/425 blood relatives 5/Аделина Владимировна Каневская.md",
-    "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
-    "docs/400 contacts/420 relatives/424 blood relatives/epiphCertGK 1.pdf"
+    "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md"
   ]
 }
