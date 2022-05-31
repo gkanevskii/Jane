@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
+            "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
+                "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
+                "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -128,6 +128,8 @@
   },
   "active": "86f4ad4d5d0cf035",
   "lastOpenFiles": [
+    "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
+    "docs/400 contacts/410 non-relatives/415 acquaintances/Владимир Майков.md",
     "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
     "docs/400 contacts/420 relatives/427 blood relatives 3/Иван Иванович Меньшиков 1.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Наталья Петровна Меньшикова.md",
@@ -135,8 +137,6 @@
     "docs/400 contacts/420 relatives/421 non-blood relatives/Григорий Петрович Чернышов.md",
     "docs/400 contacts/420 relatives/425 blood relatives 5/Иван Григорьевич Чернышов.md",
     "docs/400 contacts/420 relatives/426 blood relatives 4/Леон Иванович Меньшиков.md",
-    "docs/400 contacts/420 relatives/425 blood relatives 5/Николай Леонович Меньшиков.md",
-    "docs/400 contacts/420 relatives/424 blood relatives/Сергей Николаевич Меньшиков.md",
-    "docs/400 contacts/420 relatives/425 blood relatives 5/Григорий Михайлович Панн.md"
+    "docs/400 contacts/420 relatives/425 blood relatives 5/Николай Леонович Меньшиков.md"
   ]
 }
