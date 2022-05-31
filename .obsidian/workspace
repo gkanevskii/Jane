@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.01499938964844
+    "width": 401.01499938964844,
+    "collapsed": true
   },
   "right": {
     "id": "89568aed9e1aabb2",
@@ -128,11 +129,11 @@
   "active": "86f4ad4d5d0cf035",
   "lastOpenFiles": [
     "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
+    "docs/400 contacts/420 relatives/427 blood relatives 3/Иван Иванович Меньшиков 1.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Наталья Петровна Меньшикова.md",
     "docs/400 contacts/420 relatives/426 blood relatives 4/Мария Ивановна Чернышова.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Григорий Петрович Чернышов.md",
     "docs/400 contacts/420 relatives/425 blood relatives 5/Иван Григорьевич Чернышов.md",
-    "docs/400 contacts/420 relatives/427 blood relatives 3/Иван Иванович Меньшиков 1.md",
     "docs/400 contacts/420 relatives/426 blood relatives 4/Леон Иванович Меньшиков.md",
     "docs/400 contacts/420 relatives/425 blood relatives 5/Николай Леонович Меньшиков.md",
     "docs/400 contacts/420 relatives/424 blood relatives/Сергей Николаевич Меньшиков.md",
