@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/400 contacts/420 relatives/424 blood relatives/София Александровна Калина.md",
+            "file": "docs/400 contacts/420 relatives/426 blood relatives 4/Мария Ивановна Чернышова.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/420 relatives/424 blood relatives/София Александровна Калина.md",
+                "file": "docs/400 contacts/420 relatives/426 blood relatives 4/Мария Ивановна Чернышова.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/420 relatives/424 blood relatives/София Александровна Калина.md",
+                "file": "docs/400 contacts/420 relatives/426 blood relatives 4/Мария Ивановна Чернышова.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,15 +127,15 @@
   },
   "active": "86f4ad4d5d0cf035",
   "lastOpenFiles": [
-    "docs/400 contacts/420 relatives/424 blood relatives/София Александровна Калина.md",
-    "docs/400 contacts/420 relatives/421 non-blood relatives/Александр Валерьевич Калин.md",
-    "docs/400 contacts/420 relatives/424 blood relatives/Ольга Николаевна Калина.md",
-    "docs/400 contacts/420 relatives/421 non-blood relatives/Татьяна Сергеевна Меньшикова.md",
+    "docs/400 contacts/420 relatives/426 blood relatives 4/Мария Ивановна Чернышова.md",
+    "docs/400 contacts/420 relatives/421 non-blood relatives/Григорий Петрович Чернышов.md",
+    "docs/400 contacts/420 relatives/427 blood relatives 3/Иван Иванович Меньшиков 1.md",
+    "docs/400 contacts/420 relatives/426 blood relatives 4/Леон Иванович Меньшиков.md",
     "docs/400 contacts/420 relatives/425 blood relatives 5/Николай Леонович Меньшиков.md",
     "docs/400 contacts/420 relatives/424 blood relatives/Сергей Николаевич Меньшиков.md",
-    "docs/400 contacts/420 relatives/421 non-blood relatives/Галина Михайловна Меньшикова.md",
-    "docs/400 contacts/420 relatives/424 blood relatives/Константин Сергеевич Меньшиков.md",
-    "docs/400 contacts/420 relatives/424 blood relatives/Макар Сергеевич Меньшиков.md",
-    "docs/400 contacts/420 relatives/426 blood relatives 4/Леон Иванович Меньшиков.md"
+    "docs/400 contacts/420 relatives/425 blood relatives 5/Григорий Михайлович Панн.md",
+    "docs/400 contacts/420 relatives/424 blood relatives/София Александровна Калина.md",
+    "docs/400 contacts/420 relatives/421 non-blood relatives/Александр Валерьевич Калин.md",
+    "docs/400 contacts/420 relatives/424 blood relatives/Ольга Николаевна Калина.md"
   ]
 }

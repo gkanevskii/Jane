@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "line:(День Рождения: мая)",
+  "search": "line:(День Рождения: июня",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -81,6 +81,6 @@
   "repelStrength": 12.247191011236,
   "linkStrength": 1,
   "linkDistance": 447,
-  "scale": 0.6346285676930671,
+  "scale": 0.9681619554185612,
   "close": false
 }
