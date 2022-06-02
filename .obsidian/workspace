@@ -7,8 +7,12 @@
         "id": "86f4ad4d5d0cf035",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,14 +130,14 @@
   "active": "86f4ad4d5d0cf035",
   "lastOpenFiles": [
     "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
+    "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Каневская.md",
+    "docs/400 contacts/420 relatives/429 blood relatives 1/Максим Александрович Каневский.md",
+    "docs/400 contacts/420 relatives/429 blood relatives 1/Дарья Анатольевна Каневская.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Наталия Олеговна Учёнова.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Станислав Сергеевич Тяпин.md",
-    "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Каневская.md",
     "docs/400 contacts/420 relatives/426 blood relatives 4/Мария Ивановна Чернышова.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Григорий Петрович Чернышов.md",
     "docs/400 contacts/420 relatives/425 blood relatives 5/Иван Григорьевич Чернышов.md",
-    "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
-    "docs/400 contacts/420 relatives/429 blood relatives 1/Дарья Анатольевна Каневская.md",
-    "docs/400 contacts/410 non-relatives/415 acquaintances/Владимир Майков.md"
+    "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md"
   ]
 }
