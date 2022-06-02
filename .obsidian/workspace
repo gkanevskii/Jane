@@ -7,12 +7,8 @@
         "id": "86f4ad4d5d0cf035",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/400 contacts/420 relatives/421 non-blood relatives/Наталия Олеговна Учёнова.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/420 relatives/421 non-blood relatives/Наталия Олеговна Учёнова.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/420 relatives/421 non-blood relatives/Наталия Олеговна Учёнова.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -128,8 +122,8 @@
   "active": "86f4ad4d5d0cf035",
   "lastOpenFiles": [
     "docs/400 contacts/420 relatives/421 non-blood relatives/Наталия Олеговна Учёнова.md",
-    "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Каневская.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Станислав Сергеевич Тяпин.md",
+    "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Каневская.md",
     "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
     "docs/400 contacts/420 relatives/426 blood relatives 4/Мария Ивановна Чернышова.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Григорий Петрович Чернышов.md",

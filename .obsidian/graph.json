@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "line:(День Рождения: июня",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -77,10 +77,10 @@
   "nodeSizeMultiplier": 0.83,
   "lineSizeMultiplier": 1.33876404494382,
   "collapse-forces": false,
-  "centerStrength": 0.648314606741573,
-  "repelStrength": 12.247191011236,
+  "centerStrength": 0.543679775280899,
+  "repelStrength": 11.5941011235955,
   "linkStrength": 1,
-  "linkDistance": 447,
-  "scale": 0.05034417736651876,
+  "linkDistance": 500,
+  "scale": 0.15024111371691187,
   "close": false
 }
