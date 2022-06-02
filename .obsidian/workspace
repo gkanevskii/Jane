@@ -7,12 +7,8 @@
         "id": "86f4ad4d5d0cf035",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/420 relatives/424 blood relatives/Григорий Максимович Каневский.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
