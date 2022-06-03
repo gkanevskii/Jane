@@ -7,8 +7,12 @@
         "id": "86f4ad4d5d0cf035",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -122,6 +128,7 @@
   },
   "active": "86f4ad4d5d0cf035",
   "lastOpenFiles": [
+    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Татьяна Серобаба.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Олег Борисович Никифоров.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Наталия Олеговна Учёнова.md",
@@ -130,7 +137,6 @@
     "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Илья Олегович Никифоров.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Татьяна.md",
-    "docs/100 art/110 video art/Franchiselist.md",
-    "docs/100 art/110 video art/Movielist.md"
+    "docs/100 art/110 video art/Franchiselist.md"
   ]
 }
