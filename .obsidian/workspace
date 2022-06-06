@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86f4ad4d5d0cf035",
+        "id": "ed8df903c674daf2",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -59,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.01499938964844,
-    "collapsed": true
+    "width": 401.01499938964844
   },
   "right": {
     "id": "89568aed9e1aabb2",
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +120,7 @@
     "width": 215.1999969482422,
     "collapsed": true
   },
-  "active": "86f4ad4d5d0cf035",
+  "active": "ed8df903c674daf2",
   "lastOpenFiles": [
     "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
