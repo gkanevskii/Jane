@@ -7,8 +7,10 @@
         "id": "ed8df903c674daf2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf"
+          }
         }
       }
     ],
@@ -36,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ali",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -123,6 +127,7 @@
   "active": "ed8df903c674daf2",
   "lastOpenFiles": [
     "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
+    "docs/900 problems/920 global/922 political/Expel from Russia.md",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Татьяна Серобаба.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Олег Борисович Никифоров.md",
@@ -130,7 +135,6 @@
     "docs/400 contacts/420 relatives/421 non-blood relatives/Станислав Сергеевич Тяпин.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Каневская.md",
     "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
-    "docs/400 contacts/420 relatives/421 non-blood relatives/Илья Олегович Никифоров.md",
-    "docs/400 contacts/420 relatives/421 non-blood relatives/Татьяна.md"
+    "docs/400 contacts/420 relatives/421 non-blood relatives/Илья Олегович Никифоров.md"
   ]
 }
