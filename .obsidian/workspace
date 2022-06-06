@@ -7,11 +7,9 @@
         "id": "86f4ad4d5d0cf035",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
-            "mode": "source",
-            "source": false
+            "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf"
           }
         }
       }
@@ -40,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "иван меньшиков",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,8 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.01499938964844,
-    "collapsed": true
+    "width": 401.01499938964844
   },
   "right": {
     "id": "89568aed9e1aabb2",
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
+                "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
+                "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -128,6 +125,7 @@
   },
   "active": "86f4ad4d5d0cf035",
   "lastOpenFiles": [
+    "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Татьяна Серобаба.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Олег Борисович Никифоров.md",
@@ -136,7 +134,6 @@
     "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Каневская.md",
     "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Илья Олегович Никифоров.md",
-    "docs/400 contacts/420 relatives/421 non-blood relatives/Татьяна.md",
-    "docs/100 art/110 video art/Franchiselist.md"
+    "docs/400 contacts/420 relatives/421 non-blood relatives/Татьяна.md"
   ]
 }
