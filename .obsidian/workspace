@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf"
+            "file": "docs/400 contacts/420 relatives/Kanevskii_Grigorii_alia_compX2.pdf"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
+                "file": "docs/400 contacts/420 relatives/Kanevskii_Grigorii_alia_compX2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
+                "file": "docs/400 contacts/420 relatives/Kanevskii_Grigorii_alia_compX2.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,8 +126,8 @@
   },
   "active": "ed8df903c674daf2",
   "lastOpenFiles": [
-    "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
     "docs/400 contacts/420 relatives/Kanevskii_Grigorii_alia_compX2.pdf",
+    "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
     "docs/900 problems/920 global/922 political/Expel from Russia.md",
     "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
     "docs/400 contacts/420 relatives/421 non-blood relatives/Татьяна Серобаба.md",
