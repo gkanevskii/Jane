@@ -7,9 +7,11 @@
         "id": "ed8df903c674daf2",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "docs/400 contacts/420 relatives/Kanevskii_Grigorii_alia_compX2.pdf"
+            "file": "docs/500 career/510 professional education/511 self-education/Career self-education.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ali",
+                "query": "career",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/400 contacts/420 relatives/Kanevskii_Grigorii_alia_compX2.pdf",
+                "file": "docs/500 career/510 professional education/511 self-education/Career self-education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/400 contacts/420 relatives/Kanevskii_Grigorii_alia_compX2.pdf",
+                "file": "docs/500 career/510 professional education/511 self-education/Career self-education.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,15 +128,15 @@
   },
   "active": "ed8df903c674daf2",
   "lastOpenFiles": [
+    "docs/500 career/510 professional education/511 self-education/Career self-education.md",
+    "docs/500 career/Career.md",
+    "docs/000 meta and management/030 tree structure/Paleodietical menu by Shpak.md",
+    "docs/000 meta and management/030 tree structure/Music art.md",
+    "docs/000 meta and management/030 tree structure/Password backup.md",
+    "docs/000 meta and management/030 tree structure/Entertainment.md",
+    "docs/500 career/Formal certificates.md",
+    "docs/000 meta and management/030 tree structure/Space of Life.md",
     "docs/400 contacts/420 relatives/Kanevskii_Grigorii_alia_compX2.pdf",
-    "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf",
-    "docs/900 problems/920 global/922 political/Expel from Russia.md",
-    "docs/400 contacts/410 non-relatives/414 former colleagues/Константин Владимирович Рычков/Константин Владимирович Рычков.md",
-    "docs/400 contacts/420 relatives/421 non-blood relatives/Татьяна Серобаба.md",
-    "docs/400 contacts/420 relatives/421 non-blood relatives/Олег Борисович Никифоров.md",
-    "docs/400 contacts/420 relatives/421 non-blood relatives/Наталия Олеговна Учёнова.md",
-    "docs/400 contacts/420 relatives/421 non-blood relatives/Станислав Сергеевич Тяпин.md",
-    "docs/400 contacts/420 relatives/421 non-blood relatives/Нина Александровна Каневская.md",
-    "docs/400 contacts/420 relatives/428 blood relatives 2/Иван Иванович Меньшиков.md"
+    "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf"
   ]
 }
