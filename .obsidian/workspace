@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/500 career/510 professional education/511 self-education/Career self-education.md",
+            "file": "docs/000 meta and management/030 tree structure/Social Accounts.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "-",
+                "query": "arejn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/500 career/510 professional education/511 self-education/Career self-education.md",
+                "file": "docs/000 meta and management/030 tree structure/Social Accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/500 career/510 professional education/511 self-education/Career self-education.md",
+                "file": "docs/000 meta and management/030 tree structure/Social Accounts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -129,6 +129,7 @@
   },
   "active": "ed8df903c674daf2",
   "lastOpenFiles": [
+    "docs/000 meta and management/030 tree structure/Social Accounts.md",
     "docs/500 career/510 professional education/511 self-education/Career self-education.md",
     "docs/500 career/Career.md",
     "docs/000 meta and management/030 tree structure/Paleodietical menu by Shpak.md",
@@ -137,7 +138,6 @@
     "docs/000 meta and management/030 tree structure/Entertainment.md",
     "docs/500 career/Formal certificates.md",
     "docs/000 meta and management/030 tree structure/Space of Life.md",
-    "docs/400 contacts/420 relatives/Kanevskii_Grigorii_alia_compX2.pdf",
-    "docs/400 contacts/420 relatives/Kanevskiy_Maxim_alia.pdf"
+    "docs/400 contacts/420 relatives/Kanevskii_Grigorii_alia_compX2.pdf"
   ]
 }
