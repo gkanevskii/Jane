@@ -7,8 +7,12 @@
         "id": "f17d73d3bd0810fd",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/100 art/110 video art/Watchlist.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "watchlist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/100 art/110 video art/Watchlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/100 art/110 video art/Watchlist.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -122,6 +129,7 @@
   },
   "active": "f17d73d3bd0810fd",
   "lastOpenFiles": [
+    "docs/100 art/110 video art/Watchlist.md",
     "docs/000 meta and management/030 tree structure/Social Accounts.md",
     "docs/500 career/510 professional education/511 self-education/Career self-education.md",
     "docs/500 career/Career.md",
@@ -130,7 +138,6 @@
     "docs/000 meta and management/030 tree structure/Password backup.md",
     "docs/000 meta and management/030 tree structure/Entertainment.md",
     "docs/500 career/Formal certificates.md",
-    "docs/000 meta and management/030 tree structure/Space of Life.md",
-    "docs/400 contacts/420 relatives/Kanevskii_Grigorii_alia_compX2.pdf"
+    "docs/000 meta and management/030 tree structure/Space of Life.md"
   ]
 }
