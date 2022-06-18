@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/100 art/110 video art/Watchlist.md",
+            "file": "docs/000 meta and management/030 tree structure/Social Accounts.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "watchlist",
+                "query": "accounts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/100 art/110 video art/Watchlist.md",
+                "file": "docs/000 meta and management/030 tree structure/Social Accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/100 art/110 video art/Watchlist.md",
+                "file": "docs/000 meta and management/030 tree structure/Social Accounts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -129,8 +129,8 @@
   },
   "active": "f17d73d3bd0810fd",
   "lastOpenFiles": [
-    "docs/100 art/110 video art/Watchlist.md",
     "docs/000 meta and management/030 tree structure/Social Accounts.md",
+    "docs/100 art/110 video art/Watchlist.md",
     "docs/500 career/510 professional education/511 self-education/Career self-education.md",
     "docs/500 career/Career.md",
     "docs/000 meta and management/030 tree structure/Paleodietical menu by Shpak.md",
